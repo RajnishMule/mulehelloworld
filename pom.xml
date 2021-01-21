@@ -53,6 +53,12 @@
             <url>https://repository.mulesoft.org/releases/</url>
             <layout>default</layout>
         </repository>
+        <repository>
+            <id>mulesoft-repo</id>
+            <name>MuleSoft Releases Repository</name>
+            <url>https://repo.maven.apache.org/maven2</url>
+            <layout>default</layout>
+        </repository>
     </repositories>
  
 </project>
